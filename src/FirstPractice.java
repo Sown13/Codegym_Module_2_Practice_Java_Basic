@@ -3,3 +3,4 @@ public class FirstPractice{
         System.out.println("thu in ra man hinh terminal");
     }
 }
+tao test casi
